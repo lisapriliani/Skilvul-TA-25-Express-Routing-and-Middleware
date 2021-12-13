@@ -1,0 +1,27 @@
+{
+  "name": "25-Express-Routing-and-Middleware",
+  "version": "1.0.0",
+  "description": "TA-25-Express-Routing-and-Middleware",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisapriliani/Skilvul-TA-25-Express-Routing-and-Middleware.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisapriliani/Skilvul-TA-25-Express-Routing-and-Middleware/issues"
+  },
+  "homepage": "https://github.com/lisapriliani/Skilvul-TA-25-Express-Routing-and-Middleware#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
